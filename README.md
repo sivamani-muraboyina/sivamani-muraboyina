@@ -4,7 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivamanimuraboyina-5873b52a7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivamani.m23@iiits.in)
-[![Live App](https://img.shields.io/badge/ClaimLenZ%20Live-00C7B7?style=for-the-badge&logo=streamlit&logoColor=white)](https://claimlenz-for-plum-by-siva.streamlit.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sivamani-muraboyina)
+[![Phone](https://img.shields.io/badge/+91%207207685475-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917207685475)
 [![Profile Views](https://komarev.com/ghpvc/?username=sivamani-muraboyina&color=302b63&style=for-the-badge&label=Profile+Views)](https://github.com/sivamani-muraboyina)
 
 </div>
@@ -173,9 +174,9 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 *I'm actively looking for **internships** and **campus placement** opportunities in GenAI, LLM Engineering, and Applied AI.*
 *If you're building something interesting — reach out.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivamanimuraboyina-5873b52a7)
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivamani.m23@iiits.in)
-[![Live App](https://img.shields.io/badge/See%20ClaimLenZ%20Live-00C7B7?style=for-the-badge&logo=streamlit&logoColor=white)](https://claimlenz-for-plum-by-siva.streamlit.app)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivamanimuraboyina-5873b52a7)
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivamani.m23@iiits.in)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sivamani-muraboyina)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
