@@ -15,24 +15,25 @@
 
 ## 🧠 About Me
 
-```python
-class SivamaniMuraboyina:
-    role        = "GenAI Engineer (Fresher)"
-    institute   = "IIIT Sri City — B.Tech AI & Data Science (2023–2027)"
-    cgpa        = 7.78
+> **I build and ship GenAI systems — RAG pipelines, LLM apps, and deployed tools that work in the real world.**
 
-    stack = {
-        "GenAI"  : ["RAG", "LLMs", "LangChain", "FAISS", "BM25", "Groq API",
-                    "Prompt Engineering", "Sentence Transformers"],
-        "ML"     : ["Scikit-learn", "Feature Engineering", "EDA", "Pandas", "NumPy"],
-        "Web"    : ["FastAPI", "Flask", "Streamlit", "Pydantic"],
-        "DevOps" : ["Docker", "Git", "GitHub", "Hugging Face", "Streamlit Cloud"],
-    }
+🎓 &nbsp;**B.Tech AI & Data Science** · IIIT Sri City · 2023–2027 · CGPA **7.78**
+🏆 &nbsp;**Top 5** at IIITS'26 National Hackathon — AI Trip Planner
+🚀 &nbsp;**2 deployed apps** — ClaimLenZ (Streamlit Cloud) · DocMind (FastAPI + Streamlit)
+📍 &nbsp;Andhra Pradesh, India &nbsp;|&nbsp; 📬 sivamani.m23@iiits.in
 
-    deployed_apps = ["ClaimLenZ 🏥", "DocMind 📄"]
-    achievement   = "Top 5 — IIITS'26 National Hackathon 🏆"
-    open_to       = ["GenAI Internships", "LLM Engineering Roles", "Applied AI Roles"]
-```
+<br>
+
+**What I work with:**
+
+🔷 &nbsp;**GenAI & LLMs** &nbsp;— RAG · FAISS · BM25 · LangChain · Groq API · Prompt Engineering · Sentence Transformers
+🔶 &nbsp;**ML & Data** &nbsp;— Scikit-learn · Feature Engineering · EDA · Pandas · NumPy
+🔹 &nbsp;**Web & APIs** &nbsp;— FastAPI · Streamlit · Flask · Pydantic
+🔸 &nbsp;**DevOps** &nbsp;— Docker · Git · GitHub · Hugging Face · Streamlit Cloud
+
+<br>
+
+> 💼 &nbsp;**Open to GenAI internships · LLM Engineering · Applied AI roles**
 
 ---
 
