@@ -18,12 +18,19 @@
 <img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 &nbsp;🔥 &nbsp;**I build and ship GenAI systems** — not just experiment with them.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG pipelines · LLM apps · Deployed tools that work in the real world.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG pipelines · LLM apps · Deployed tools that work in the real world.
 
-&nbsp;🎓 &nbsp;**IIIT Sri City** — B.Tech AI & Data Science `2023–2027` · CGPA **7.78**
+&nbsp;
+
+&nbsp;🎓 &nbsp;**IIIT Sri City** — B.Tech AI & Data Science &nbsp;`2023–2027` &nbsp;· &nbsp;CGPA **7.78**
+
 &nbsp;🏆 &nbsp;**Top 5 · IIITS'26 National Hackathon** — AI Trip Planner
-&nbsp;🚀 &nbsp;**2 Live Deployed Apps** — ClaimLenZ · DocMind
+
+&nbsp;🚀 &nbsp;**2 Live Deployed Apps** — ClaimLenZ &nbsp;·&nbsp; DocMind
+
 &nbsp;💼 &nbsp;**Open to** — GenAI Internships · LLM Engineering · Applied AI Roles
+
+&nbsp;
 
 <br>
 
@@ -31,21 +38,44 @@
 
 <table>
   <tr>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-6e40c9?style=for-the-badge&logoColor=white"/><br/>
-      <sub>RAG · FAISS · BM25<br/>LangChain · Groq API<br/>Prompt Engineering</sub>
+    <td>🤖 &nbsp;<b>GenAI & LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAG-6e40c9?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FAISS-6e40c9?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BM25-6e40c9?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-6e40c9?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Groq%20API-6e40c9?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-6e40c9?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sentence%20Transformers-6e40c9?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/ML%20%26%20Data-0f9d58?style=for-the-badge&logoColor=white"/><br/>
-      <sub>Scikit-learn · Pandas<br/>NumPy · EDA<br/>Feature Engineering</sub>
+  </tr>
+  <tr>
+    <td>📊 &nbsp;<b>ML & Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--learn-0f9d58?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-0f9d58?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-0f9d58?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/EDA-0f9d58?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Feature%20Engineering-0f9d58?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/Web%20%26%20APIs-0467DF?style=for-the-badge&logoColor=white"/><br/>
-      <sub>FastAPI · Streamlit<br/>Flask · Pydantic<br/>REST APIs</sub>
+  </tr>
+  <tr>
+    <td>🌐 &nbsp;<b>Web & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-0467DF?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-0467DF?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-0467DF?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pydantic-0467DF?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-e8710a?style=for-the-badge&logoColor=white"/><br/>
-      <sub>Docker · Git · GitHub<br/>Hugging Face<br/>Streamlit Cloud</sub>
+  </tr>
+  <tr>
+    <td>🛠️ &nbsp;<b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-e8710a?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-e8710a?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-e8710a?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-e8710a?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit%20Cloud-e8710a?style=flat-square&logoColor=white"/>
     </td>
   </tr>
 </table>
