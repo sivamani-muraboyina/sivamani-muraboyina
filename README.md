@@ -106,49 +106,39 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 
 ## ⚡ Tech Stack
 
-<table>
-  <tr>
-    <td>🤖 &nbsp;<b>GenAI & LLMs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/RAG-6e40c9?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FAISS-6e40c9?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/BM25-6e40c9?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-6e40c9?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Groq%20API-6e40c9?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-6e40c9?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sentence%20Transformers-6e40c9?style=flat-square&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>📊 &nbsp;<b>ML & Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Scikit--learn-0f9d58?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-0f9d58?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-0f9d58?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/EDA-0f9d58?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Feature%20Engineering-0f9d58?style=flat-square&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>🌐 &nbsp;<b>Web & APIs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-0467DF?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-0467DF?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-0467DF?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pydantic-0467DF?style=flat-square&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>🛠️ &nbsp;<b>DevOps & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-e8710a?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-e8710a?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-e8710a?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hugging%20Face-e8710a?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit%20Cloud-e8710a?style=flat-square&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**GenAI & LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-8A2BE2?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6e40c9?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6e40c9?style=for-the-badge&logoColor=white)
+
+**ML & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Web & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</div>
 
 ---
 
