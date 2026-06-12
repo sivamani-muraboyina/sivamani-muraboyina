@@ -15,25 +15,40 @@
 
 ## 🧠 About Me
 
-> **I build and ship GenAI systems — RAG pipelines, LLM apps, and deployed tools that work in the real world.**
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 &nbsp;**B.Tech AI & Data Science** · IIIT Sri City · 2023–2027 · CGPA **7.78**
-🏆 &nbsp;**Top 5** at IIITS'26 National Hackathon — AI Trip Planner
-🚀 &nbsp;**2 deployed apps** — ClaimLenZ (Streamlit Cloud) · DocMind (FastAPI + Streamlit)
-📍 &nbsp;Andhra Pradesh, India &nbsp;|&nbsp; 📬 sivamani.m23@iiits.in
+&nbsp;🔥 &nbsp;**I build and ship GenAI systems** — not just experiment with them.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG pipelines · LLM apps · Deployed tools that work in the real world.
 
-<br>
-
-**What I work with:**
-
-🔷 &nbsp;**GenAI & LLMs** &nbsp;— RAG · FAISS · BM25 · LangChain · Groq API · Prompt Engineering · Sentence Transformers
-🔶 &nbsp;**ML & Data** &nbsp;— Scikit-learn · Feature Engineering · EDA · Pandas · NumPy
-🔹 &nbsp;**Web & APIs** &nbsp;— FastAPI · Streamlit · Flask · Pydantic
-🔸 &nbsp;**DevOps** &nbsp;— Docker · Git · GitHub · Hugging Face · Streamlit Cloud
+&nbsp;🎓 &nbsp;**IIIT Sri City** — B.Tech AI & Data Science `2023–2027` · CGPA **7.78**
+&nbsp;🏆 &nbsp;**Top 5 · IIITS'26 National Hackathon** — AI Trip Planner
+&nbsp;🚀 &nbsp;**2 Live Deployed Apps** — ClaimLenZ · DocMind
+&nbsp;💼 &nbsp;**Open to** — GenAI Internships · LLM Engineering · Applied AI Roles
 
 <br>
 
-> 💼 &nbsp;**Open to GenAI internships · LLM Engineering · Applied AI roles**
+### ⚡ What I Build With
+
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-6e40c9?style=for-the-badge&logoColor=white"/><br/>
+      <sub>RAG · FAISS · BM25<br/>LangChain · Groq API<br/>Prompt Engineering</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/ML%20%26%20Data-0f9d58?style=for-the-badge&logoColor=white"/><br/>
+      <sub>Scikit-learn · Pandas<br/>NumPy · EDA<br/>Feature Engineering</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Web%20%26%20APIs-0467DF?style=for-the-badge&logoColor=white"/><br/>
+      <sub>FastAPI · Streamlit<br/>Flask · Pydantic<br/>REST APIs</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-e8710a?style=for-the-badge&logoColor=white"/><br/>
+      <sub>Docker · Git · GitHub<br/>Hugging Face<br/>Streamlit Cloud</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
