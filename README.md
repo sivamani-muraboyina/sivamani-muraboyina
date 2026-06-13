@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sivamani%20Muraboyina&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Real-World%20AI&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sivamani%20Muraboyina&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI&descAlignY=58&descSize=15" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivamani-muraboyina-5873b52a7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivamani.m23@iiits.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sivamani-muraboyina)
 [![Profile Views](https://komarev.com/ghpvc/?username=sivamani-muraboyina&color=302b63&style=for-the-badge&label=Profile+Views)](https://github.com/sivamani-muraboyina)
 
 </div>
@@ -17,7 +16,7 @@
 
 Final-year **B.Tech AI & Data Science** student at **IIIT Sri City** — but I don't wait for graduation to build real things.
 
-I've shipped **2 production GenAI apps** from scratch, won recognition at a national hackathon, and I'm actively deepening into **Agentic AI** and **LLM systems** while looking for internships and campus placements where I can contribute from day one.
+I've shipped **3 production GenAI apps** from scratch, won recognition at a national hackathon, and I'm actively deepening into **Agentic AI** and **LLM systems** while looking for internships and campus placements where I can contribute from day one.
 
 > *"Don't just learn the stack. Build something with it."*
 
@@ -27,18 +26,19 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 
 ## 🗺️ My GenAI Journey
 
-> From classical ML → Hybrid RAG → Production LLM Apps → Agentic AI *(next)*
+> From classical ML → Hybrid RAG → Production LLM Apps → Agentic AI
 
 ```
 2023 ──────────────────────────────────────────────────────────────► Now & Beyond
 
- 📚 Foundations       🔧 First Builds        🚀 Production          🤖 Next
+ 📚 Foundations       🔧 First Builds        🚀 Production          🤖 Deepening
  ─────────────        ────────────────        ─────────────          ──────────
- Python · DSA         ML Pipelines            DocMind                Agentic RAG
- Scikit-learn         House Price Pred        (Hybrid RAG)           LangGraph
- Pandas · NumPy       Loan Eligibility        ClaimLenZ              Multi-Agent
- EDA · Statistics     Docker · FastAPI        (LLM + Rules)          Tool Calling
-                      Streamlit               Live Deployed ✅        AutoGen
+ Python · DSA         ML Pipelines            DocMind                LangGraph
+ Scikit-learn         House Price Pred        (Hybrid RAG)           RAGAS · Evals
+ Pandas · NumPy       Docker · FastAPI        ClaimLenZ              Multi-Agent
+ EDA · Statistics     Streamlit               (LLM + Rules)          Tool Calling
+                      Git · CI/CD             DeepScout ✅            LLM Systems
+                                              (Agentic AI)
 ```
 
 ---
@@ -49,21 +49,22 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 ClaimLenZ
-**AI-powered OPD insurance claim adjudication**
-> Built as a technical assignment for Plum · Live on Streamlit Cloud
+### 🕵️ DeepScout
+**Autonomous AI research agent**
+> LangGraph agent that searches, scores sources, and writes cited reports · Live on Streamlit Cloud
 
-[![Live](https://img.shields.io/badge/▶%20Live%20App-00C7B7?style=flat-square&logo=streamlit&logoColor=white)](https://claimlenz-for-plum-by-siva.streamlit.app)
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sivamani-muraboyina/ClaimLenZ)
+[![Live](https://img.shields.io/badge/▶%20Live%20App-00C7B7?style=flat-square&logo=streamlit&logoColor=white)](https://deepscout-yourname.streamlit.app)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sivamani-muraboyina/DeepScout)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-00C7B7?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-- 📋 LLM parses OPD claim documents
-- ⚖️ Policy rule engine adjudicates in real-time
-- ✅❌⚠️ Three-outcome system with reasoning
-- ☁️ Deployed — accessible via public URL
+- 🔍 Decomposes query into sub-questions autonomously
+- 🏅 Source credibility scoring per domain
+- 💬 Conversational follow-up with memory
+- 📥 PDF + Markdown export · Research history
 
 </td>
 <td width="50%" valign="top">
@@ -90,34 +91,48 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Student Performance Predictor
-**ML app predicting student academic outcomes**
+### 🏥 ClaimLenZ
+**AI-powered OPD insurance claim adjudication**
+> Built as a technical assignment for Plum · Live on Streamlit Cloud
 
-[![Live](https://img.shields.io/badge/▶%20Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://student-performance-s20230030395.streamlit.app)
+[![Live](https://img.shields.io/badge/▶%20Live%20App-00C7B7?style=flat-square&logo=streamlit&logoColor=white)](https://claimlenz-for-plum-by-siva.streamlit.app)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sivamani-muraboyina/ClaimLenZ)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-- 🎓 Predicts outcomes from student input features
-- 📈 Trained ML classification pipeline
-- ☁️ Live on Streamlit Cloud
+- 📋 Two-stage LLM pipeline — extract then adjudicate
+- ⚖️ Deterministic policy rule engine
+- ✅❌⚠️ Three-outcome system with reasoning
+- ☁️ Deployed — accessible via public URL
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 House Price Predictor
-**Regression model for property price estimation**
+### 📊 What I'm focusing on now
 
-[![Live](https://img.shields.io/badge/▶%20Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://housepricepredicition-basic2030030395.streamlit.app)
+> Depth over breadth — making existing systems stronger
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+```
+Currently learning
+──────────────────
+📐 RAGAS — evaluating RAG output quality
+🕸️  LangGraph multi-agent patterns
+🔧 LLM prompt robustness + edge cases
+📊 DSA — 2-3 LeetCode mediums/week
+```
 
-- 🏡 Estimates price from property features
-- 📉 Regression pipeline with feature engineering
-- ☁️ Live on Streamlit Cloud
+```
+Why not another project?
+─────────────────────────
+3 deployed GenAI apps with live links
+is more than enough for interviews.
+
+What matters now is depth:
+being able to explain every design
+decision under pressure.
+```
 
 </td>
 </tr>
@@ -125,31 +140,17 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 
 ---
 
-## 🔭 What I'm Building Next
-
-> Levelling up from RAG → **Agentic AI** systems
-
-| Stage | Project | Status | Stack |
-|---|---|---|---|
-| ✅ Done | DocMind — Hybrid RAG | Shipped | FAISS · BM25 · RRF · LangChain |
-| ✅ Done | ClaimLenZ — LLM + Rules | Deployed | Groq · Streamlit · Policy Engine |
-| 🔨 Building | Agentic RAG system | In progress | LangGraph · Tool Calling · Memory |
-| 📅 Planned | Multi-agent orchestration | Upcoming | CrewAI / AutoGen · LangGraph |
-| 📅 Planned | LLM Evaluation framework | Upcoming | RAGAS · Custom Metrics |
-
----
-
 ## ⚡ Tech Stack
 
 <div align="center">
 
-**GenAI & LLM**
+**Agentic AI & LLM**
 
+![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-00C7B7?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-8A2BE2?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6e40c9?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6e40c9?style=for-the-badge&logoColor=white)
 
@@ -159,6 +160,8 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-8A2BE2?style=for-the-badge&logoColor=white)
 
 **Web & APIs**
 
@@ -171,7 +174,6 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
@@ -196,7 +198,7 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 | 🥇 | **Top 5 · IIITS'26 National Hackathon** — AI Trip Planner, selected among most promising ideas |
 | 🎓 | **IIIT Sri City** · B.Tech AI & Data Science · CGPA **7.78** · Graduating May 2027 |
 | 📚 | **Class XII · 98.3%** — VIT Junior College |
-| 🚀 | **4 deployed apps** — ClaimLenZ · DocMind · Student Performance · House Price Predictor |
+| 🚀 | **3 deployed GenAI apps** — DeepScout · DocMind · ClaimLenZ — all live, all explainable |
 | 🔍 | **Actively seeking** GenAI internships · LLM Engineering · Campus Placements 2027 |
 
 ---
@@ -210,7 +212,6 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivamani-muraboyina-5873b52a7/)
 [![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivamani.m23@iiits.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sivamani-muraboyina)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
