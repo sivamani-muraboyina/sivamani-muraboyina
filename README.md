@@ -2,10 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sivamani%20Muraboyina&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Real-World%20AI&descAlignY=58&descSize=15" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivamanimuraboyina-5873b52a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivamani-muraboyina-5873b52a7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivamani.m23@iiits.in)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sivamani-muraboyina)
-[![Phone](https://img.shields.io/badge/+91%207207685475-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917207685475)
 [![Profile Views](https://komarev.com/ghpvc/?username=sivamani-muraboyina&color=302b63&style=for-the-badge&label=Profile+Views)](https://github.com/sivamani-muraboyina)
 
 </div>
@@ -69,10 +68,11 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 </td>
 <td width="50%" valign="top">
 
-### 📄 DocMind
+### 🧠 DocMind
 **Conversational PDF intelligence — Hybrid RAG**
-> FAISS + BM25 + RRF fusion + Cross-encoder reranking
+> FAISS + BM25 + RRF fusion + Cross-encoder reranking · Live on Streamlit Cloud
 
+[![Live](https://img.shields.io/badge/▶%20Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://docmind-by-siva.streamlit.app)
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sivamani-muraboyina/DOCMIND)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -84,6 +84,40 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 - 🎯 Cross-encoder reranking for precision
 - 🗂️ Auto chunking by document type
 - 💬 Multi-turn Q&A with source attribution
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Student Performance Predictor
+**ML app predicting student academic outcomes**
+
+[![Live](https://img.shields.io/badge/▶%20Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://student-performance-s20230030395.streamlit.app)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+- 🎓 Predicts outcomes from student input features
+- 📈 Trained ML classification pipeline
+- ☁️ Live on Streamlit Cloud
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 House Price Predictor
+**Regression model for property price estimation**
+
+[![Live](https://img.shields.io/badge/▶%20Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://housepricepredicition-basic2030030395.streamlit.app)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+- 🏡 Estimates price from property features
+- 📉 Regression pipeline with feature engineering
+- ☁️ Live on Streamlit Cloud
 
 </td>
 </tr>
@@ -162,7 +196,7 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 | 🥇 | **Top 5 · IIITS'26 National Hackathon** — AI Trip Planner, selected among most promising ideas |
 | 🎓 | **IIIT Sri City** · B.Tech AI & Data Science · CGPA **7.78** · Graduating May 2027 |
 | 📚 | **Class XII · 98.3%** — VIT Junior College |
-| 🚀 | **2 deployed GenAI apps** — ClaimLenZ (live) · DocMind |
+| 🚀 | **4 deployed apps** — ClaimLenZ · DocMind · Student Performance · House Price Predictor |
 | 🔍 | **Actively seeking** GenAI internships · LLM Engineering · Campus Placements 2027 |
 
 ---
@@ -174,7 +208,7 @@ I've shipped **2 production GenAI apps** from scratch, won recognition at a nati
 *I'm actively looking for **internships** and **campus placement** opportunities in GenAI, LLM Engineering, and Applied AI.*
 *If you're building something interesting — reach out.*
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivamanimuraboyina-5873b52a7)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivamani-muraboyina-5873b52a7/)
 [![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivamani.m23@iiits.in)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sivamani-muraboyina)
 
